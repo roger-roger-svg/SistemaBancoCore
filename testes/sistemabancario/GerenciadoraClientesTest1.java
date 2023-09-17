@@ -13,7 +13,7 @@ import org.junit.Test;
  * Classe de teste criada para garantir o funcionamento das principais operações
  * sobre clientes, realizadas pela classe {@link GerenciadoraClientes}
  * 
- * @author Matheus Correia
+ * @author Roger Andrade
  * @date 18/08/2023
  */
 public class GerenciadoraClientesTest1 {
@@ -21,7 +21,7 @@ public class GerenciadoraClientesTest1 {
 	/**
 	 * Teste básico da pesquisa de um cliente a partir do seu ID
 	 * 
-	 * @author Matheus Correia
+	 * @author Roger Andrade
 	 * @date 18/08/2023
 	 */
 	@Test

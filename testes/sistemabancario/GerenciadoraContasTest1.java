@@ -15,7 +15,7 @@ import org.junit.Test;
  * Classe de teste criada para garantir o funcionamento das principais operações
  * sobre contas, realizadas pela classe {@link GerenciadoraContas}
  * 
- * @author Matheus Correia
+ * @author Roger Andrade
  * @date 25/08/2023
  */
 public class GerenciadoraContasTest1 {
@@ -25,7 +25,7 @@ public class GerenciadoraContasTest1 {
 	 * conta de origem para uma conta destino
 	 * 
 	 * 
-	 * @author Matheus Correia
+	 * @author Roger Andrade
 	 * @date 25/08/2023
 	 */
 	
